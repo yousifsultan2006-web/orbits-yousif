@@ -3,12 +3,10 @@
 #include <bn_color.h>
 #include <bn_keypad.h>
 #include <bn_fixed_point.h>
-#include <bn_sprite_ptr.h>
 #include <bn_vector.h>
 #include <bn_log.h>
 
 #include "bn_sprite_items_dot.h"
-#include "bn_sprite_items_square.h"
 #include "movement.h"
 #include "Center.h"
 
